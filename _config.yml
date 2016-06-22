@@ -2,7 +2,7 @@ name: Alpha
 description: Alphs template for Jekyll
 baseurl: '/Alpha-Jekyll-Theme'
 
-url: "http://localhost:4000"
+url: "http://flight-attendent-zebra-32256.netlify.com/"
 
 paginate: 10
 
